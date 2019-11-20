@@ -1,6 +1,6 @@
-﻿#r "..\\..\\Sitecore.CodeGenerator.Scripty\\bin\\Debug\\Sitecore.Codegenerator.Scripty.dll"
-#r "..\\..\\Lib\\Sitecore.Kernel.DLL"
-#r "..\\..\\packages\\BoC.Glass.Mapper.Sc.1.0.3\\lib\\net45\\Glass.Mapper.Sc.dll"
+﻿#r "..\\..\\Lib\\Sitecore.Codegenerator.Scripty.dll"
+#r "..\\..\\Lib\\Sitecore.Kernel.dll"
+#r "..\\..\\Lib\\Glass.Mapper.Sc.dll"
 using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.Editing;
 using Sitecore.Codegenerator.Scripty;
